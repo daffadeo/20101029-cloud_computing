@@ -1,1 +1,2 @@
 ini adalah file pertama yang di tambahkan kedalam repositori github
+menambahkan text kedalam file cp.txt
